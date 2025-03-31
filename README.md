@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on Suporte 
 - 🌱 I’m currently learning JavaScript.
+- :joystick: Game Dev
 - 😄 Pronouns: ele/dele
 
 <div align="center">
